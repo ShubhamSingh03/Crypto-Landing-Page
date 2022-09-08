@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-image: url(./assets/bg.png);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+         /* navbar */
+
+nav{
+    display: flex;
+    background-color: #000000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    justify-content: start;
+    align-items: center;
+    padding: 0 40px;
+}
+
+.navbar img.logo{
+    height: 40px;
+    margin-right: 60px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.navbar .grow-list li{
+    list-style-type: none;
+    color: #ffffff;
+    display: inline-block;
+    margin-right: 40px;
+    font-weight: 600;
+    cursor: grab;
+}
+
+.navbar .grow-list li:hover{
+    color: #ba0ec5;
+}
+
+.navbar .grow-list li:nth-child(1)::after{
+    display: inline-block;
+    padding: 5px;
+    content: ">";
+    font-size: 1.2rem;
+    font-weight: 600;
+    transform: rotate(90deg);
+}
+
+.navbar .button-small{
+    background-color: #ba0ec5;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-left: 350px;
+}
+
+
+.navbar .button-small:hover{
+        background-color: #ffffff;
+        color: #ba0ec5;
+        box-shadow: 2px 2px 0px 2px #ba0ec5;
+    }
+
+nav .line{
+    height: 40px;
+    border: 1px solid #ffffff;
+    margin-right: 40px;
+}
+
+          /* hero */
+
+.hero{
+    margin: auto;
+}
+.hero .hero-heading{
+    margin-top: 200px;
+    text-align: center;
+    font-size: 4rem;
+    color: #ffffff;
+}
+
+.hero .hero-description{
+    color: #ffffff;
+    font-size: 25px;
+    text-align: center;
+    margin: 2px auto;
+}
+
+.hero .button-large {
+    display: block;
+    background-color: #ba0ec5;
+    color: #ffffff;
+    border: none;
+    padding: 20px 30px;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 1.3rem;
+    margin: 25px auto;
+    cursor: pointer;
+}
+
+.hero .button-large:hover{
+    background-color: #ffffff;
+    color: #ba0ec5;
+    box-shadow: 2px 2px 0px 2px #000000;
+}
+
