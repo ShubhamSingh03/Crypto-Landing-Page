@@ -17,16 +17,16 @@
 ***
 ## Description
 
-This project [Crypto Landing Page]() was built using Semantic HTML and CSS. While building this webpage I learnt various new concepts. I learnt about **pseudo elements(::after, ::before)**, **pseudo classes :hover property**, styling the buttons and background-image properties. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
+This project [Crypto Landing Page](https://cryptoo-home.netlify.app/) was built using Semantic HTML and CSS. While building this webpage I learnt various new concepts. I learnt about **pseudo elements(::after, ::before)**, **pseudo classes :hover property**, styling the buttons and background-image properties. The Project was completed under guidance of [Hitesh Choudhary](https://github.com/hiteshchoudhary), CTO Ineuron
 
 ***
 ### Links for Project
 
-* [LIVE Project Link]()
+* [LIVE Project Link](https://cryptoo-home.netlify.app/)
 
-* [Youtube Video Demo]()
+* [Youtube Video Demo](https://youtu.be/pjtDMnBW2LI)
 
-* [Source Code]()
+* [Source Code](https://github.com/ShubhamSingh03/Crypto-Landing-Page)
 
 ***
 ### Built With 
@@ -73,17 +73,15 @@ This project [Crypto Landing Page]() was built using Semantic HTML and CSS. Whil
 
 ### Checkout Portfolio & Other Projects
 
-#### [Personal Portfolio]()
+#### [Personal Portfolio](https://shubhambhoj.in/)
 
-
-#### [Findcoder Profile]()
+#### [Findcoder Profile](https://www.findcoder.io/u/shubham_singh)
 ***
 
 ### Connect with Me
 * [Mailto](mailto:shubhambhoj3@gmail.com)
-* [LinkedIn]()
-* [Github]()
-* [Findcoder]()
+* [LinkedIn](https://www.linkedin.com/in/shubham-singh-b122b7171/)
+* [Github](https://github.com/ShubhamSingh03)
 ***
 ***
 [go to top](#crypto-landing-page)
